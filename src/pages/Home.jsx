@@ -7,7 +7,7 @@ export default function Home() {
         <div className="relative h-full w-full col-span-1 z-10 flex items-center">
           <div className="w-full px-6 md:px-0 md:pl-[300px] space-y-6 text-center md:text-left">
 <h1 className="text-2xl md:text-4xl font-bold leading-tight bg-gradient-to-r from-[#A18CD1] to-[#6C63FF] bg-clip-text text-transparent">
-  Bootstrap 5 theme
+  Clone Figma page
 </h1>
 
             <h2 className="text-gray-600 text-xl md:text-3xl">
